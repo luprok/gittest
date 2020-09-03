@@ -1,6 +1,9 @@
 function app() {
     if (loggedIn()) {
-        // redirects
+        // redirects home
+    }
+    else {
+        // redirect to register
     }
 }
 
