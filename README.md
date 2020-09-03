@@ -4,6 +4,3 @@ testujem new
 
 
 githubik
-
-
-blah
