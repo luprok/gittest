@@ -1,6 +1,2 @@
 # gittest gitujemeee madafaka
-testujem new 
-
-
-
-githubik
+testujem new
